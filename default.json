@@ -56,6 +56,7 @@
 		"enabled": true
 	},
 	"pip_requirements": {
+		"enabled": true,
 		"fileMatch": [
 			"requirements(-[a-z0-9]+)?\\.txt$"
 		]
