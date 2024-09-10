@@ -7,6 +7,7 @@
 		":timezone(Etc/UTC)",
 		":preserveSemverRanges"
 	],
+	"mode": "full",
 	"internalChecksFilter": "strict",
 	"rebaseWhen": "conflicted",
 	"packageRules": [
