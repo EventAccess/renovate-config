@@ -61,5 +61,13 @@
 		"fileMatch": [
 			"requirements(-[a-z0-9]+)?\\.txt$"
 		]
+	},
+	"devcontainer": {
+		"enabled": true,
+		"fileMatch": [
+			"^\\.devcontainer/[^/]+/devcontainer\\.json$",
+			"^\\.devcontainer/devcontainer\\.json$",
+			"^\\.devcontainer\\.json$"
+		]
 	}
 }
